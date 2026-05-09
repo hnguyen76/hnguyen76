@@ -74,8 +74,6 @@ https://hnguyen76.github.io/daily_stock_market_indicator/
 - Sales trend visualization
 - Customer behavior insights
 
-🔗 Live Dashboard:
-https://hnguyen76.github.io/Supermart_Sales/
 
 ### EV Market Analytics Dashboard
 Developed an interactive electric vehicle market analytics dashboard focused on EV industry trends, market performance visualization, and data-driven reporting.
