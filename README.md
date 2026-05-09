@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Hieu Nguyen
 
-<!--
-**hnguyen76/hnguyen76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst Portfolio
 
-Here are some ideas to get you started:
+Transitioning into Data Analytics with experience in:
+- Python
+- Pandas
+- SQL
+- Power BI
+- Matplotlib
+- Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background:
+- 10+ years in wireless network performance analysis
+- RF Drive Test & KPI reporting
+- Data visualization and analytical reporting
+
+---
+
+## Featured Projects
+
+### Retail Sales Analysis
+- Data cleaning and exploratory data analysis
+- Sales trend visualization
+- Customer behavior insights
+
+### Teen Mental Health Analysis
+- Data cleaning and preprocessing
+- Correlation analysis
+- Data visualization using Matplotlib and Seaborn
+
+---
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Power BI
+- Git & GitHub
+
+---
+
+## Connect With Me
+
+- LinkedIn www.linkedin.com/in/hieunguyenatl
+
+- GitHub Portfolio https://github.com/hnguyen76
