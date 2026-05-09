@@ -2,7 +2,7 @@
 
 ## Data Analyst Portfolio
 
-Transitioning into Data Analytics with experience in:
+I'm a Data Analytics with experience in:
 - Python
 - Pandas
 - SQL
