@@ -111,7 +111,7 @@ Technologies:
 Python • Pandas • Matplotlib • Seaborn • Data Visualization • GitHub Pages
 
 🔗 Live Dashboard:
-https://hnguyen76.github.io/EV_Market/
+https://hnguyen76.github.io/EV_Market/docs/index.html
  
 ---
 
