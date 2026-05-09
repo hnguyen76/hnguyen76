@@ -19,6 +19,31 @@ Background:
 
 ## Featured Projects
 
+### Retail Sales Analysis
+- Data cleaning and exploratory data analysis
+- Sales trend visualization
+- Customer behavior insights
+  
+Key Features
+- Interactive retail sales dashboard
+- KPI-focused business reporting
+- Sales and profit trend analysis
+- Product category performance tracking
+- Regional sales comparison
+- Customer purchasing behavior insights
+- Dynamic filtering and visualization
+- Executive-style dashboard layout
+  
+Tools & Technologies:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Dashboard Visualization
+
+🔗 Live Dashboard:
+https://hnguyen76.github.io/Supermart_Sales/dashboard/index.html
+
 ### Supply Chain Analytics Dashboard
 Interactive supply chain analytics dashboard built to visualize operational KPIs, inventory insights, and logistics performance metrics.
 
@@ -69,10 +94,7 @@ Python • Pandas • Matplotlib • Financial Data Analysis • GitHub Pages
 
 🔗 Live Dashboard:
 https://hnguyen76.github.io/daily_stock_market_indicator/
-### Retail Sales Analysis
-- Data cleaning and exploratory data analysis
-- Sales trend visualization
-- Customer behavior insights
+
 
 
 ### EV Market Analytics Dashboard
