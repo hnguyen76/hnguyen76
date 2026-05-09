@@ -24,11 +24,11 @@ Background:
 - Sales trend visualization
 - Customer behavior insights
 
-### Teen Mental Health Analysis
+### Teen Mental Health Analysis - https://hnguyen76.github.io/teen-mental-health-data-analysis/
 - Data cleaning and preprocessing
 - Correlation analysis
 - Data visualization using Matplotlib and Seaborn
-  reports/DASHBOARD.md
+
 ---
 
 ## Tools & Technologies
