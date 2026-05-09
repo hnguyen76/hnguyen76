@@ -12,12 +12,29 @@ I'm a Data Analytics with experience in:
 
 Background:
 - 10+ years in wireless network performance analysis
-- RF Drive Test & KPI reporting
+- RF Test & KPI reporting
 - Data visualization and analytical reporting
 
 ---
 
 ## Featured Projects
+
+### Teen Mental Health Analytics Dashboard
+
+Developed an interactive mental health analytics dashboard focused on identifying behavioral and lifestyle patterns associated with teen depression indicators using data visualization and exploratory data analysis techniques.
+
+Key Features:
+- Mental health trend visualization
+- Behavioral pattern analysis
+- Depression indicator reporting
+- Correlation analysis between sleep, stress, anxiety, and social media usage
+- Interactive dashboard storytelling and reporting
+
+Tools & Technologies:
+Python • Pandas • Matplotlib • Seaborn • Data Visualization • GitHub Pages
+
+🔗 Live Dashboard:
+https://hnguyen76.github.io/teen-mental-health-data-analysis/reports/DASHBOARD.html
 
 ### Retail Sales Analysis
 - Data cleaning and exploratory data analysis
