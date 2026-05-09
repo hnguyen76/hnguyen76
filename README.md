@@ -11,7 +11,7 @@ I'm a Data Analytics with experience in:
 - Seaborn
 
 Background:
-- 10+ years in wireless network performance analysis
+- 10+ years in Data Analysis
 - RF Test & KPI reporting
 - Data visualization and analytical reporting
 
