@@ -34,7 +34,7 @@ Tools & Technologies:
 Python • Pandas • Matplotlib • Seaborn • Data Visualization • GitHub Pages
 
 🔗 Live Dashboard:
-https://hnguyen76.github.io/teen-mental-health-data-analysis/reports/DASHBOARD.html
+https://hnguyen76.github.io/Teen_Mental_Health_Analysis/reports/DASHBOARD.html
 
 ### Retail Sales Analysis
 - Data cleaning and exploratory data analysis
