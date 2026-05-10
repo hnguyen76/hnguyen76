@@ -110,8 +110,7 @@ Technologies:
 Python • Pandas • Matplotlib • Financial Data Analysis • GitHub Pages
 
 🔗 Live Dashboard:
-https://hnguyen76.github.io/daily_stock_market_indicator/
-
+https://hnguyen76.github.io/Daily_Stock_Market_Indicator/
 
 
 ### EV Market Analytics Dashboard
