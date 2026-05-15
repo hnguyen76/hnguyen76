@@ -18,6 +18,34 @@ Background:
 ---
 
 ## Featured Projects
+###Amazon Big Sales Dataset 2026
+Data cleaning, exploratory data analysis, and business insight reporting for Amazon sales performance.
+Sales trend visualization, product performance analysis, customer behavior insights, and executive-style KPI reporting.
+
+Key Features:
+- Interactive Amazon sales dashboard
+- KPI-focused business reporting
+- Sales and revenue trend analysis
+- Product category performance tracking
+- Regional sales comparison
+- Customer purchasing behavior insights
+- High-performing product and category identification
+- Dynamic filtering and visualization
+- Executive-style dashboard layout
+- Business recommendations based on sales performance
+
+Tools & Technologies:
+
+Python
+Pandas
+Matplotlib
+Seaborn
+Dashboard Visualization
+HTML / CSS
+GitHub Pages
+
+🔗 Live Dashboard:
+https://hnguyen76.github.io/Amazon_Tech_Trends_Sales_Insight_2026/
 
 ### Teen Mental Health Analytics Dashboard
 
