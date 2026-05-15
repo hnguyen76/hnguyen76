@@ -46,7 +46,38 @@ GitHub Pages
 
 🔗 Live Dashboard:
 https://hnguyen76.github.io/Amazon_Tech_Trends_Sales_Insight_2026/
+Thought for a couple of seconds
 
+### Banking Fraud Detection & Risk Analytics
+Data cleaning, exploratory data analysis, fraud pattern detection, and risk analytics for banking transaction data.
+Fraud trend visualization, customer risk segmentation, transaction behavior analysis, and KPI-focused financial risk reporting.
+
+Key Features
+
+- Interactive banking fraud detection dashboard
+- KPI-focused risk analytics reporting
+- Fraud vs. non-fraud transaction analysis
+- Transaction amount and frequency trend analysis
+- Customer behavior and risk pattern insights
+- High-risk transaction identification
+- Fraud rate and risk score tracking
+- Dynamic filtering and visualization
+- Executive-style dashboard layout
+- Business recommendations for fraud prevention and risk monitoring
+
+Tools & Technologies:
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Streamlit
+- Dashboard Visualization
+- Exploratory Data Analysis
+- Risk Analytics
+
+🔗 Live Dashboard:
+https://bankingfrauddetection-and-risk-analytics-fkbv9vxc3qh8b8pm8qxc8.streamlit.app/
 ### Teen Mental Health Analytics Dashboard
 
 Developed an interactive mental health analytics dashboard focused on identifying behavioral and lifestyle patterns associated with teen depression indicators using data visualization and exploratory data analysis techniques.
