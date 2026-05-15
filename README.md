@@ -18,7 +18,7 @@ Background:
 ---
 
 ## Featured Projects
-###Amazon Big Sales Dataset 2026
+### Amazon Big Sales Dataset 2026
 Data cleaning, exploratory data analysis, and business insight reporting for Amazon sales performance.
 Sales trend visualization, product performance analysis, customer behavior insights, and executive-style KPI reporting.
 
