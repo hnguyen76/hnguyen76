@@ -36,17 +36,48 @@ Key Features:
 
 Tools & Technologies:
 
-Python
-Pandas
-Matplotlib
-Seaborn
-Dashboard Visualization
-HTML / CSS
-GitHub Pages
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Dashboard Visualization
+- HTML / CSS
+- GitHub Pages
 
 🔗 Live Dashboard:
 https://hnguyen76.github.io/Amazon_Tech_Trends_Sales_Insight_2026/
-Thought for a couple of seconds
+
+### Global Poverty and Economic Inequality Analysis
+Data cleaning, exploratory data analysis, and economic insight reporting for global poverty and inequality trends.
+Poverty trend visualization, income inequality analysis, regional economic comparison, and KPI-focused global development reporting.
+
+Key Features
+
+- Interactive global poverty and inequality dashboard
+- KPI-focused economic development reporting
+- Poverty rate and income inequality trend analysis
+- Country and regional comparison
+- Economic indicator performance tracking
+- Global development pattern insights
+- High-risk region identification
+- Dynamic filtering and visualization
+- Executive-style dashboard layout
+- Business and policy recommendations based on economic trends
+
+Tools & Technologies:
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Streamlit
+- Dashboard Visualization
+- Exploratory Data Analysis
+- Economic Data Analysis
+
+🔗 Live Dashboard:
+https://globalpovertyandeconomicineuapplity-3vcsoixqkwqpwfjqeagxwj.streamlit.app/
+
 
 ### Banking Fraud Detection & Risk Analytics
 Data cleaning, exploratory data analysis, fraud pattern detection, and risk analytics for banking transaction data.
