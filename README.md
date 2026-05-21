@@ -3,12 +3,13 @@
 ## Data Analyst Portfolio
 
 I'm a Data Analytics with experience in:
-- Python
-- Pandas
-- SQL
-- Power BI
-- Matplotlib
-- Seaborn
+- Python (Pandas, Matplotlib, Seaborn) for data analysis, automation, and reporting workflows - Pandas and NumPy for large-scale data transformation, cleansing, and exploratory analysis
+- Advanced SQL for complex querying, joins, CTEs, window functions, KPI analysis, and data validation
+- Power BI for executive dashboards, DAX development, forecasting, and business intelligence reporting
+- Tableau and interactive data visualization platforms
+- Excel, Power Query, PivotTables, and advanced KPI
+- Executive-level data storytelling and presentation development
+- Forecasting, trend analysis, operational performance monitoring, and financial reporting
 
 Background:
 - 10+ years in Data Analysis
